@@ -16,7 +16,7 @@ function Calculator(props) {
           <button type="button" className="Btns" onClick={handleClick}>AC</button>
           <button type="button" className="Btns" onClick={handleClick}>+/-</button>
           <button type="button" className="Btns" onClick={handleClick}>%</button>
-          <button type="button" className="Btns MathOperations">÷</button>
+          <button type="button" className="Btns MathOperations" onClick={handleClick}>÷</button>
         </div>
         <div>
           <button type="button" className="Btns" onClick={handleClick}>7</button>

@@ -20,11 +20,12 @@ const operate = (firstNum, secondNum, operation) => {
       return 'Division by 0 is not allowed';
     }
   }
+
   if (operation === '%') {
     try {
       return first.mod(second).toString();
     } catch (error) {
-      return 'Modulus not possible as division by 0';
+      return 'Undefined';
     }
   }
   return true;
