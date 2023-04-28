@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  margin-top: 5%;
+}
+
+.display {
+  justify-content: flex-end;
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  background-color: #dcd4d4;
+  height: 5rem;
+  color: rgb(18, 15, 15);
+  font-size: 3rem;
+  font-weight: 700;
+}
+
+.calculator {
+  flex-direction: column;
+  width: 20em;
+  display: flex;
+}
+
+.btnsContainer {
+  align-items: center;
+  justify-content: center;
+}
+
+.Btns {
+  width: 5rem;
+  font-size: 1.5rem;
+  font-weight: 500;
+  padding: 15px;
+}
+
+.MathOperations {
+  background-color: #ff7300;
+}
+
+.calcZero {
+  width: 10rem;
+}
