@@ -60,11 +60,11 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[Setup with create-react-app]**
-- **[Setup linters for React/Redux]**
 - **[Made UI/UX of Calculator]**
 - **[Use of Big npm package]**
 - **[Basic Arthematic Operations of Calculator]**
+- **[Ninjas API used to get Quotes]**
+- **[Animated Loader used from NPM packages]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
