@@ -7,17 +7,17 @@
 .App {
   display: flex;
   justify-content: center;
-  margin-top: 5%;
+  margin-top: 7%;
 }
 
 .display {
   justify-content: flex-end;
   display: flex;
   align-items: center;
-  padding: 10px;
-  background-color: #dcd4d4;
-  height: 5rem;
   color: rgb(18, 15, 15);
+  padding: 12px;
+  background-color: #dcd4d4;
+  height: 4rem;
   font-size: 3rem;
   font-weight: 700;
 }
@@ -36,7 +36,7 @@
 .Btns {
   width: 5rem;
   font-size: 1.5rem;
-  font-weight: 500;
+  font-weight: 600;
   padding: 15px;
 }
 
