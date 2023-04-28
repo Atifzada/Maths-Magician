@@ -61,6 +61,7 @@
 ### Key Features <a name="key-features"></a>
 
 - **[Project Setup]**
+- **[Add UI]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
