@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 
-const FetchedData = () => {
+const Quotes = () => {
   const [loading, setLoading] = useState(false);
   const [isError, setIsError] = useState(false);
   const [quotes, setQuotes] = useState({});
@@ -35,4 +35,4 @@ const FetchedData = () => {
   );
 };
 
-export default FetchedData;
+export default Quotes;

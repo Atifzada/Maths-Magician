@@ -6,12 +6,13 @@ function Calculator(props) {
   const { calcState, handleClick } = props;
   return (
     <>
-      <div className="display">
-        {calcState.result}
-        {calcState.function}
-        {calcState.next}
-      </div>
       <div className="btnsContainer">
+        <div className="display">
+          {calcState.result}
+          {calcState.function}
+          {calcState.next}
+        </div>
+
         <div>
           <button type="button" className="Btns" onClick={handleClick}>AC</button>
           <button type="button" className="Btns" onClick={handleClick}>+/-</button>
