@@ -1,13 +1,26 @@
 import './App.css';
+import { Route, Routes, Link } from 'react-router-dom';
 import CalculatorStructure from './components/CalculatorStructure';
-import FetchedData from './components/Fetch';
+import Quotes from './components/Quotes';
+import Home from './components/Home';
 
 function App() {
   return (
-    <div className="App">
-      <CalculatorStructure />
-      <FetchedData />
-    </div>
+    <>
+      <nav>
+        <h1>Math Magicians</h1>
+        <ul>
+          <li><Link exact to="/Home">Home</Link></li>
+          <li><Link exact to="/Calculator">Calculator</Link></li>
+          <li><Link exact to="/Quotes">Quote</Link></li>
+        </ul>
+      </nav>
+      <Routes>
+        <Route exact path="/Home" element={<Home />} />
+        <Route path="/Calculator" element={<CalculatorStructure />} />
+        <Route path="/Quotes" element={<Quotes />} />
+      </Routes>
+    </>
   );
 }
 
