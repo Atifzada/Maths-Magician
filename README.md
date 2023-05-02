@@ -65,6 +65,7 @@
 - **[Basic Arthematic Operations of Calculator]**
 - **[Ninjas API used to get Quotes]**
 - **[Animated Loader used from NPM packages]**
+- **[Routing Pages]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
