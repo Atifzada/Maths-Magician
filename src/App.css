@@ -39,7 +39,7 @@
   align-items: center;
   justify-content: center;
   padding: 20px;
-  margin: 10% 0;
+  margin: 7% 0;
 }
 
 .Btns {
@@ -136,4 +136,9 @@ nav h1 {
 .paragraph2 {
   color: black;
   font-size: 25px;
+}
+
+.calTitle {
+  margin: 20px;
+  font-size: 40px;
 }
