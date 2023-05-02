@@ -6,7 +6,7 @@ function Calculator(props) {
   const { calcState, handleClick } = props;
   return (
     <>
-      <h1 className="calTitle">Let do some Math</h1>
+      <h1 className="calTitle">Let's do some Math</h1>
       <div className="btnsContainer">
         <div className="display">
           {calcState.result}
