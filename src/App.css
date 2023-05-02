@@ -63,7 +63,6 @@
   flex-direction: column;
   padding: 13%;
   scroll-behavior: smooth;
-  
 }
 
 .category {
@@ -133,7 +132,8 @@ nav h1 {
   color: rgb(0, 0, 0);
 }
 
-.paragraph1,.paragraph2 {
+.paragraph1,
+.paragraph2 {
   color: black;
   font-size: 25px;
 }
