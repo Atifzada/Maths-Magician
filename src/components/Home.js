@@ -1,6 +1,6 @@
 const Home = () => (
   <section className="homePage">
-    <h1>Home Page</h1>
+    <h1>Welcome to our Page</h1>
     <p className="paragraph1">
       Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis necessitatibus modi culpa quia,
       assumenda ratione molestias cum pariatur tempore blanditiis? Dolores cum assumenda

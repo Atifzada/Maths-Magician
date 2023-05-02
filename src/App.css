@@ -24,7 +24,7 @@
   font-size: 3rem;
   font-weight: 700;
   border: 2px solid;
-  width: 20.5%;
+  width: 100%;
 }
 
 .calculator {
@@ -39,7 +39,6 @@
   align-items: center;
   justify-content: center;
   padding: 20px;
-  margin: 7% 0;
 }
 
 .Btns {
@@ -140,5 +139,11 @@ nav h1 {
 
 .calTitle {
   margin: 20px;
-  font-size: 40px;
+  font-size: 30px;
+}
+
+.main {
+  display: flex;
+  margin: 7% 0;
+  gap: 70px;
 }
