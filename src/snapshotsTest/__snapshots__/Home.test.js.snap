@@ -1,0 +1,98 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing calculator Should render Calculator components 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <section
+        class="homePage"
+      >
+        <h1>
+          Welcome to our Page
+        </h1>
+        <p
+          class="paragraph1"
+        >
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis necessitatibus modi culpa quia, assumenda ratione molestias cum pariatur tempore blanditiis? Dolores cum assumenda labore ut excepturi corporis beatae praesentium accusantium.
+        </p>
+        <p
+          class="paragraph2"
+        >
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam blanditiis obcaecati magni assumenda numquam a optio ullam voluptatem aut nisi, soluta neque totam quae facilis cumque accusamus iusto quis eum molestias error quos ad unde in nihil! Minima repellendus, praesentium odit enim quisquam laboriosam alias nisi, vero quas aliquam quam sunt, dolorem eius est molestias quae consequuntur unde perferendis tempore illo. Eveniet magnam maiores adipisci quasi voluptatem molestias autem labore itaque vero dignissimos delectus ducimus dolor voluptas obcaecati, unde atque perferendis officia. Odit sint ducimus, unde velit eos veniam quisquam consequatur nihil, illo accusantium est. Ab veniam repellendus optio illum.
+        </p>
+      </section>
+    </div>
+  </body>,
+  "container": <div>
+    <section
+      class="homePage"
+    >
+      <h1>
+        Welcome to our Page
+      </h1>
+      <p
+        class="paragraph1"
+      >
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis necessitatibus modi culpa quia, assumenda ratione molestias cum pariatur tempore blanditiis? Dolores cum assumenda labore ut excepturi corporis beatae praesentium accusantium.
+      </p>
+      <p
+        class="paragraph2"
+      >
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam blanditiis obcaecati magni assumenda numquam a optio ullam voluptatem aut nisi, soluta neque totam quae facilis cumque accusamus iusto quis eum molestias error quos ad unde in nihil! Minima repellendus, praesentium odit enim quisquam laboriosam alias nisi, vero quas aliquam quam sunt, dolorem eius est molestias quae consequuntur unde perferendis tempore illo. Eveniet magnam maiores adipisci quasi voluptatem molestias autem labore itaque vero dignissimos delectus ducimus dolor voluptas obcaecati, unde atque perferendis officia. Odit sint ducimus, unde velit eos veniam quisquam consequatur nihil, illo accusantium est. Ab veniam repellendus optio illum.
+      </p>
+    </section>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
