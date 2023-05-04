@@ -114,6 +114,11 @@ npm run build
 - Twitter: [@Atif-Zada](https://twitter.com/Atif-Zada)
 - LinkedIn: [@Atif-Zada](https://linkedin.com/in/Atif-Zada)
 
+👤 **Daniel Kigozi**
+- GitHub: [Daniel-Kigozi](https://github.com/Daniel-Kigozi)
+- Twitter: [@DanielKigozi15](https://twitter.com/@DanielKigozi15)
+- LinkedIn: [daniel-kigozi-375182208/](https://www.daniel-kigozi-375182208/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
