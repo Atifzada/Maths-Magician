@@ -12,11 +12,7 @@ const calculate = (obj, pressBtn) => {
   }
   if (checkNum(pressBtn)) {
     if (pressBtn === '0' && obj.next === '0') {
-      return {
-        result: 0,
-        next: null,
-        function: null,
-      };
+      return {};
     }
     if (obj.function) {
       if (obj.next && obj.next !== '0') {
